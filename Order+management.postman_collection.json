@@ -9,7 +9,7 @@
 			"name": "Generate reference",
 			"event": [
 				{
-					"listen": "test",
+					"listen": "test 2",
 					"script": {
 						"id": "7b811a57-7e26-4114-991b-c0a0cac9b24f",
 						"exec": [
