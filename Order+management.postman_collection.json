@@ -6,7 +6,7 @@
 	},
 	"item": [
 		{
-			"name": "Generate reference",
+			"name": "Generate 1",
 			"event": [
 				{
 					"listen": "test 2",
